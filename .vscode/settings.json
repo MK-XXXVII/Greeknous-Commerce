@@ -1,3 +1,7 @@
 {
-    "typescript.preferences.quoteStyle": "single"
+    "typescript.preferences.quoteStyle": "single",
+    "editor.fontSize": 18,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontWeight": 300,
 }
