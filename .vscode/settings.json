@@ -1,7 +1,9 @@
 {
     "typescript.preferences.quoteStyle": "single",
-    "editor.fontSize": 18,
+    "editor.fontSize": 20,
     "editor.fontLigatures": true,
-    "editor.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontWeight": 300,
+    "editor.fontFamily": "Fira Core, 'Courier New', monospace",
+    "editor.fontWeight": 400,
+    "workbench.preferredDarkColorTheme": "Snazzy Plus - Darker",
+    "workbench.preferredLightColorTheme": "Hyper Term Theme",
 }
